@@ -6,4 +6,6 @@ Hi, here are my solutions to [Advent of Code 2023](https://adventofcode.com/2023
 
 Also Python is not my main language, so if you have some pure code improvements or ways to make stuff easier do not hesitate to open your PRs :) 
 
+For golang version of solutions I recommend checking [my colleague repo](https://github.com/e1esm/AoC-2023-solutions)
+
 Enjoy and Welcome!
