@@ -7,6 +7,7 @@ hands = []
 for line in inputfile:
     hands.append(line.split(' '))
 
+# This is one of a tasks where all the logic is plainly described in the task itself and you don't have to improvise or anything. For the purpose of this task I implemented classes for combinations to split the logic, but you can just make a method, it won't be that long
 
 class Combination:
     # A, K, Q, J, T, 9, 8, 7, 6, 5, 4, 3, or 2
