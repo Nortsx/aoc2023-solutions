@@ -4,6 +4,7 @@ import re
 # For this particular task I felt myself a bit fancy so wrote a custom iterator.
 # Normal while loop is not anywhere worse!
 
+
 class TreeNode(object):
     def __init__(self, name: str):
         self.name = name
@@ -37,6 +38,7 @@ class DirectionsSource:
         if self.index >= len(self.directions):
             self.index = 0
         return res
+
 
 nodes_regex = r"(\w{3}) = \((\w{3}), (\w{3})\)"
 
